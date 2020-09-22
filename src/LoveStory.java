@@ -1,6 +1,6 @@
 public class LoveStory {
   void beerusTest(){
-    System.out.println("First Version - By Beerus - Version 1.0");
+    System.out.println("First Version-Develop: Version 2.0");
   }
 
 }
