@@ -1,6 +1,6 @@
 public class LoveStory {
   void beerusTest(){
-    System.out.println("First Version-beerus: Version 3.0");
+    System.out.println("First Version-beerus: Version 4.0");
   }
 
 }
